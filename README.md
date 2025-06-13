@@ -1,5 +1,5 @@
 # JS-crasher
-crashes...in just 222 bytes
+a small crash script
 
 ***INFO***
 
