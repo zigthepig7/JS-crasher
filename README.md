@@ -1,10 +1,14 @@
 # JS-crasher
 a small crash script
 
-***INFO***
+INFO
 
 This works by continuously opening pop-up windows. At the end of the script, if nothing crashed, there would be googol windows open.
 
-***LICENCE***
+LICENCE
 
 just give credit to me and i dont really care
+
+LINK
+
+pjbeardsley.net/JS-crasher.html
